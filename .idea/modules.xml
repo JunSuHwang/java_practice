@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MethodReferenceExample/MethodReferenceExample.iml" filepath="$PROJECT_DIR$/MethodReferenceExample/MethodReferenceExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OptionalExample/OptionalExample.iml" filepath="$PROJECT_DIR$/OptionalExample/OptionalExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_practice.iml" filepath="$PROJECT_DIR$/java_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1213/p1213.iml" filepath="$PROJECT_DIR$/p1213/p1213.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p13305/p13305.iml" filepath="$PROJECT_DIR$/p13305/p13305.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1439/p1439.iml" filepath="$PROJECT_DIR$/p1439/p1439.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1620/p1620.iml" filepath="$PROJECT_DIR$/p1620/p1620.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pg2024kakao_intern/pg2024kakao_intern.iml" filepath="$PROJECT_DIR$/pg2024kakao_intern/pg2024kakao_intern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pg_2underbit/pg_2underbit.iml" filepath="$PROJECT_DIR$/pg_2underbit/pg_2underbit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pg_String_Sorting/pg_String_Sorting.iml" filepath="$PROJECT_DIR$/pg_String_Sorting/pg_String_Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pg_boat/pg_boat.iml" filepath="$PROJECT_DIR$/pg_boat/pg_boat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pg_caesar_cipher/pg_caesar_cipher.iml" filepath="$PROJECT_DIR$/pg_caesar_cipher/pg_caesar_cipher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pg_cardmung/pg_cardmung.iml" filepath="$PROJECT_DIR$/pg_cardmung/pg_cardmung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pg_joystick/pg_joystick.iml" filepath="$PROJECT_DIR$/pg_joystick/pg_joystick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pg_kakao_openchat/pg_kakao_openchat.iml" filepath="$PROJECT_DIR$/pg_kakao_openchat/pg_kakao_openchat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pg_memory_point/pg_memory_point.iml" filepath="$PROJECT_DIR$/pg_memory_point/pg_memory_point.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pg_pccp10_dataanalysis/pg_pccp10_dataanalysis.iml" filepath="$PROJECT_DIR$/pg_pccp10_dataanalysis/pg_pccp10_dataanalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pg_pccp1_player/pg_pccp1_player.iml" filepath="$PROJECT_DIR$/pg_pccp1_player/pg_pccp1_player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pg_pccp_1/pg_pccp_1.iml" filepath="$PROJECT_DIR$/pg_pccp_1/pg_pccp_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pg_process/pg_process.iml" filepath="$PROJECT_DIR$/pg_process/pg_process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pg_wallpaper/pg_wallpaper.iml" filepath="$PROJECT_DIR$/pg_wallpaper/pg_wallpaper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pgrunning/pgrunning.iml" filepath="$PROJECT_DIR$/pgrunning/pgrunning.iml" />
+    </modules>
+  </component>
+</project>
