@@ -15,7 +15,9 @@
       <module fileurl="file://$PROJECT_DIR$/pg_boat/pg_boat.iml" filepath="$PROJECT_DIR$/pg_boat/pg_boat.iml" />
       <module fileurl="file://$PROJECT_DIR$/pg_caesar_cipher/pg_caesar_cipher.iml" filepath="$PROJECT_DIR$/pg_caesar_cipher/pg_caesar_cipher.iml" />
       <module fileurl="file://$PROJECT_DIR$/pg_cardmung/pg_cardmung.iml" filepath="$PROJECT_DIR$/pg_cardmung/pg_cardmung.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pg_pcce_billFolding/pg_cola/pg_cola.iml" filepath="$PROJECT_DIR$/pg_pcce_billFolding/pg_cola/pg_cola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pg_cola/pg_cola.iml" filepath="$PROJECT_DIR$/pg_cola/pg_cola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pg_electricGrid/pg_electricGrid.iml" filepath="$PROJECT_DIR$/pg_electricGrid/pg_electricGrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pg_pcce_billFolding/pg_hamburger/pg_hamburger.iml" filepath="$PROJECT_DIR$/pg_pcce_billFolding/pg_hamburger/pg_hamburger.iml" />
       <module fileurl="file://$PROJECT_DIR$/pg_joystick/pg_joystick.iml" filepath="$PROJECT_DIR$/pg_joystick/pg_joystick.iml" />
       <module fileurl="file://$PROJECT_DIR$/pg_kakao_openchat/pg_kakao_openchat.iml" filepath="$PROJECT_DIR$/pg_kakao_openchat/pg_kakao_openchat.iml" />
       <module fileurl="file://$PROJECT_DIR$/pg_memory_point/pg_memory_point.iml" filepath="$PROJECT_DIR$/pg_memory_point/pg_memory_point.iml" />
