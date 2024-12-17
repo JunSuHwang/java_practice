@@ -19,8 +19,10 @@
       <module fileurl="file://$PROJECT_DIR$/pg_desert_island/pg_desert_island.iml" filepath="$PROJECT_DIR$/pg_desert_island/pg_desert_island.iml" />
       <module fileurl="file://$PROJECT_DIR$/pg_electricGrid/pg_electricGrid.iml" filepath="$PROJECT_DIR$/pg_electricGrid/pg_electricGrid.iml" />
       <module fileurl="file://$PROJECT_DIR$/pg_pcce_billFolding/pg_hamburger/pg_hamburger.iml" filepath="$PROJECT_DIR$/pg_pcce_billFolding/pg_hamburger/pg_hamburger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pg_hanoi/pg_hanoi.iml" filepath="$PROJECT_DIR$/pg_hanoi/pg_hanoi.iml" />
       <module fileurl="file://$PROJECT_DIR$/pg_joystick/pg_joystick.iml" filepath="$PROJECT_DIR$/pg_joystick/pg_joystick.iml" />
       <module fileurl="file://$PROJECT_DIR$/pg_kakao_openchat/pg_kakao_openchat.iml" filepath="$PROJECT_DIR$/pg_kakao_openchat/pg_kakao_openchat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pg_mean/pg_mean.iml" filepath="$PROJECT_DIR$/pg_mean/pg_mean.iml" />
       <module fileurl="file://$PROJECT_DIR$/pg_memory_point/pg_memory_point.iml" filepath="$PROJECT_DIR$/pg_memory_point/pg_memory_point.iml" />
       <module fileurl="file://$PROJECT_DIR$/pg_missileInterception/pg_missileInterception.iml" filepath="$PROJECT_DIR$/pg_missileInterception/pg_missileInterception.iml" />
       <module fileurl="file://$PROJECT_DIR$/pg_mod_one/pg_mod_one.iml" filepath="$PROJECT_DIR$/pg_mod_one/pg_mod_one.iml" />
